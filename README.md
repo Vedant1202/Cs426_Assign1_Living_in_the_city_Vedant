@@ -33,7 +33,7 @@
 - Code is 100% original and written by me, following Unity’s in-class tutorials as reference
 
 ## 🎥 Video Demo  
-[🔗 Watch the Demo Here](https://your-google-drive-link.com)
+[🔗 Watch the Demo Here](https://www.loom.com/share/5df2ea92b8ff402e84ba991ecf8e794f?t=41&sid=af060925-1d2c-4dd4-918d-83fb095d852d)
 
 ## 📦 Project Structure  
 - Assets/  
